@@ -1,0 +1,39 @@
+[
+    {
+        "id": "3qlegt91jk31d6sdbdrkr3sj8g",
+        "start": "2025-06-21T17:00:00+02:00",
+        "end": "2025-06-21T18:00:00+02:00",
+        "summary": "Intro to Python",
+        "creator": "volunteer@test.py",
+        "attendees": [
+            {
+                "email": "student@test.py"
+            }
+        ]
+    },
+    {
+        "id": "8abfh39dk91sdf1h2jd02ke7sl",
+        "start": "2025-06-22T10:00:00+02:00",
+        "end": "2025-06-22T11:00:00+02:00",
+        "summary": "Code Review Session",
+        "creator": "volunteer@test.py",
+        "attendees": [
+            {
+                "email": "student@test.py"
+            }
+        ]
+    },
+    {
+        "id": "5tkg28jfkd9201gh49dkei29sm",
+        "start": "2025-06-23T14:30:00+02:00",
+        "end": "2025-06-23T15:30:00+02:00",
+        "summary": "Debugging Workshop",
+        "creator": "volunteer@test.py",
+        "attendees": [
+            {
+                "email": "student@test.py"
+            }
+        ]
+    }
+]
+
